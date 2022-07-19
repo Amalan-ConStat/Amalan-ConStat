@@ -17,4 +17,10 @@ Go through the repositories in this profile as needed and have fun (also cite).
 Thank You.
 
 Best Regards,
+
 Amalan.
+
+---
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?Amalan-ConStat=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?Amalan-ConStat=jasongaylord&langs_count=5&theme=tokyonight)]()

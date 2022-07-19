@@ -2,7 +2,8 @@
 
 [![GitHub Amalan](https://img.shields.io/github/followers/Amalan-ConStat?label=follow&style=social)](https://github.com/Amalan-ConStat)
 
-Hello reader, 
+## Hello reader, 
+---
 
 I am an R statistical programmer who likes to develop content for statistical theory. My progress in R and Statistics so far:
 1. In my undergraduate days I developed an R package "fitODBOD" to fit over-dispersed binomial outcome data through various distributions. 

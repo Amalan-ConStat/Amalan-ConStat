@@ -18,6 +18,13 @@ Amalan.
 
 ---
 
+## [Journal Articles](https://scholar.google.com/citations?user=fj4E-GMAAAAJ&hl=en)
+
+Mahendran, A., & Wijekoon, P. (2019). ``fitODBOD``: An R Package to Model Binomial Outcome Data using Binomial Mixture and Alternate Binomial Distributions. Journal of Open Source Software, 4(39), 1505.
+
+Mahendran, R., Puthussery, S., & Amalan, M. (2019). Prevalence of antenatal depression in South Asia: a systematic review and meta-analysis. J Epidemiol Community Health, 73(8), 768-777.
+
+
 [![Twitter: Amalan](https://img.shields.io/twitter/follow/Amalan_Con_Stat?style=social)](https://twitter.com/Amalan_Con_Stat)
 [![GitHub Amalan](https://img.shields.io/github/followers/Amalan-ConStat?label=follow&style=social)](https://github.com/Amalan-ConStat)
 

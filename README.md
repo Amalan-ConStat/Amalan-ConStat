@@ -20,5 +20,6 @@ Amalan.
 
 [![Twitter: Amalan](https://img.shields.io/twitter/follow/Amalan_Con_Stat?style=social)](https://twitter.com/Amalan_Con_Stat)
 [![GitHub Amalan](https://img.shields.io/github/followers/Amalan-ConStat?label=follow&style=social)](https://github.com/Amalan-ConStat)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Amalan-ConStat&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amalan-ConStat&hide=TeX&layout=compact)

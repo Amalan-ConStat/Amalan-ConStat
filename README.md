@@ -1,3 +1,6 @@
+[![Twitter: Amalan_Con_Stat](https://img.shields.io/twitter/follow/Amalan_Con_Stat?style=social)](https://twitter.com/Amalan_Con_Stat)
+[![GitHub Amalan_ConStat](https://img.shields.io/github/followers/Amalan_ConStat?label=follow&style=social)](https://github.com/Amalan_ConStat)
+
 Hello reader, 
 
 I am an R statistical programmer who likes to develop content for statistical theory. My progress in R and Statistics so far:

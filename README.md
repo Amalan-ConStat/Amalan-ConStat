@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello reader, 
 
-<!--
-**Amalan-ConStat/Amalan-ConStat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an R statistical programmer who likes to develop content for statistical theory. 
+1. In my undergraduate days I developed an R package "fitODBOD" to fit over-dispersed binomial outcome data through various distributions. 
+2. I got excited and built a few Rshiny apps for olympic data and south-park(long running tv series). 
+3. Scraped data from pdf files and built several csv files that include data for the Sri Lankan presidential election results 
+4. Hosted my personal website through the R package blogdown in netlify. 
+5. As a graduate student, I aim to develop scalable methods for Big data related regression problems. 
 
-Here are some ideas to get you started:
+Go through the repositories in this profile as needed and have fun (also cite).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank You.
+
+Best Regards,
+Amalan.

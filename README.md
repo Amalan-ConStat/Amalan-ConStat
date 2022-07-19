@@ -1,5 +1,5 @@
-[![Twitter: Amalan_Con_Stat](https://img.shields.io/twitter/follow/Amalan_Con_Stat?style=social)](https://twitter.com/Amalan_Con_Stat)
-[![GitHub Amalan_ConStat](https://img.shields.io/github/followers/Amalan_ConStat?label=follow&style=social)](https://github.com/Amalan_ConStat)
+[![Twitter: Amalan](https://img.shields.io/twitter/follow/Amalan_Con_Stat?style=social)](https://twitter.com/Amalan_Con_Stat)
+[![GitHub Amalan](https://img.shields.io/github/followers/Amalan-ConStat?label=follow&style=social)](https://github.com/Amalan-ConStat)
 
 Hello reader, 
 

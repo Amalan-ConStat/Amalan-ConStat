@@ -25,7 +25,9 @@ Mahendran, A., & Wijekoon, P. (2019). ``fitODBOD``: An R Package to Model Binomi
 
 Mahendran, R., Puthussery, S., & Amalan, M. (2019). Prevalence of antenatal depression in South Asia: a systematic review and meta-analysis. J Epidemiol Community Health, 73(8), 768-777.
 
-Mahendran, Amalan, Helen Thompson, and James M. McGree. "A model robust sub-sampling approach for Generalised Linear Models in Big data settings." arXiv preprint arXiv:2207.14440 (2022).
+Ozim, C. O., Mahendran, R., Amalan, M., & Puthussery, S. (2023). Prevalence of human immunodeficiency virus (HIV) among pregnant women in Nigeria: a systematic review and meta-analysis. BMJ open, 13(3), e050164.
+
+Mahendran, A., Thompson, H., & McGree, J. M. (2023). A model robust subsampling approach for Generalised Linear Models in big data settings. Statistical Papers, 1-21.
 
 [![Twitter: Amalan](https://img.shields.io/twitter/follow/Amalan_Con_Stat?style=social)](https://twitter.com/Amalan_Con_Stat)
 [![GitHub Amalan](https://img.shields.io/github/followers/Amalan-ConStat?label=follow&style=social)](https://github.com/Amalan-ConStat)

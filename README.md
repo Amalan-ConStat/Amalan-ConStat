@@ -6,8 +6,8 @@ I am an R statistical programmer who likes to develop content for statistical th
 2. I got excited and built a few Rshiny apps for [olympic data](https://amalan-con-stat.shinyapps.io/olympic/) and [south-park(long running tv series)](https://amalan-con-stat.shinyapps.io/southparktextanalytics/). 
 3. Updated the Olympic data to a better [Rshiny application](https://amalan-con-stat.shinyapps.io/OlympicRshiny/)  and is available as an R package [OlympicRshiny](https://cran.r-project.org/web/packages/OlympicRshiny/index.html).
 4. Scraped data from pdf files and built several [csv files](https://github.com/Amalan-ConStat/PresidentialElection) that include data for the Sri Lankan presidential election results and is now available as an R package [SLPresElection](https://cran.r-project.org/web/packages/SLPresElection/index.html).
-5. Hosted my [personal website](https://amalan-con-stat.netlify.app/) through the R package blogdown in netlify. 
-6. As a graduate student, I aim to develop scalable methods for Big data related regression problems. 
+5. Hosted my previous [personal website](https://amalan-con-stat.netlify.app/) through the R package blogdown in netlify. Currently, using quarto to a stable [personal website](HTTP://www.amalan-mahendran.com). 
+6. As a graduate student, I aim to develop scalable methods for big data related regression problems. 
 
 Go through the repositories in this profile as needed and have fun (also cite).
 

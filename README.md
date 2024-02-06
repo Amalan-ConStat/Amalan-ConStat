@@ -2,7 +2,7 @@
 ---
 
 I am an R statistical programmer who likes to develop content for statistical theory. My progress in R and Statistics so far:
-1. In my undergraduate days I developed an R package ["fitODBOD"](https://cran.r-project.org/web/packages/fitODBOD/index.html) to fit over-dispersed binomial outcome data through various distributions. Recently an Rshiny application named [fitODBODRshiny]() was developed.
+1. In my undergraduate days I developed an R package ["fitODBOD"](https://cran.r-project.org/web/packages/fitODBOD/index.html) to fit over-dispersed binomial outcome data through various distributions. Recently an Rshiny application named [fitODBODRshiny](https://amalan-con-stat.shinyapps.io/fitodbodrshiny/) was developed.
 2. I got excited and built a few Rshiny apps for [olympic data](https://amalan-con-stat.shinyapps.io/olympic/) and [south-park(long running tv series)](https://amalan-con-stat.shinyapps.io/southparktextanalytics/). 
 3. Updated the Olympic data to a better [Rshiny application](https://amalan-con-stat.shinyapps.io/OlympicRshiny/)  and is available as an R package [OlympicRshiny](https://cran.r-project.org/web/packages/OlympicRshiny/index.html).
 4. Scraped data from pdf files and built several [csv files](https://github.com/Amalan-ConStat/PresidentialElection) that include data for the Sri Lankan presidential election results and is now available as an R package [SLPresElection](https://cran.r-project.org/web/packages/SLPresElection/index.html).

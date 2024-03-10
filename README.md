@@ -2,10 +2,10 @@
 ---
 
 I am an R statistical programmer who likes to develop content for statistical theory. My progress in R and Statistics so far:
-1. In my undergraduate days I developed an R package ["fitODBOD"](https://cran.r-project.org/web/packages/fitODBOD/index.html) to fit over-dispersed binomial outcome data through various distributions. Recently an Rshiny application named [fitODBODRshiny](https://amalan-con-stat.shinyapps.io/fitodbodrshiny/) was developed.
-2. For the Olympic data built a [Rshiny application](https://amalan-con-stat.shinyapps.io/OlympicRshiny/)  and is available as an R package [OlympicRshiny](https://cran.r-project.org/web/packages/OlympicRshiny/index.html).
+1. In my undergraduate days I developed an R package ["fitODBOD"](https://cran.r-project.org/web/packages/fitODBOD/index.html) to fit over-dispersed binomial outcome data through various distributions. Recently an Rshiny application named [fitODBODRshiny](https://amalan-con-stat.shinyapps.io/fitodbodrshiny/) was developed for this package.
+2. For the Olympic data I built an [Rshiny application](https://amalan-con-stat.shinyapps.io/OlympicRshiny/)  and is available as an R package [OlympicRshiny](https://cran.r-project.org/web/packages/OlympicRshiny/index.html).
 3. Scraped data from pdf files and built several [csv files](https://github.com/Amalan-ConStat/PresidentialElection) that include data for the Sri Lankan presidential election results and is now available as an R package [SLPresElection](https://cran.r-project.org/web/packages/SLPresElection/index.html).
-4. The script data from the tv show "Southpark" was scraped from its wikia website and R package, Rshiny application was developed.
+4. The script data from the tv show "Southpark" was scraped from its [wikia website](https://southpark.fandom.com/wiki/South_Park_Archives) and IMDB website. The resultant data was developed into an [R package](https://cran.r-project.org/web/packages/SouthParkRshiny/index.html), [Rshiny](https://amalan-con-stat.shinyapps.io/SouthParkRshiny/) application was developed.
 5. Hosted my previous [personal website](https://amalan-con-stat.netlify.app/) through the R package blogdown in netlify. Currently, I am using Quarto for a stable [personal website](https://www.amalan-mahendran.com). 
 6. As a graduate student, I aim to develop scalable methods for regression problems under big data. 
 

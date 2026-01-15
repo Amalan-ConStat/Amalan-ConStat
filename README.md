@@ -7,7 +7,8 @@ I am an R statistical programmer who likes to develop content for statistical th
 3. Scraped data from pdf files and built several [csv files](https://github.com/Amalan-ConStat/PresidentialElection) that include data for the Sri Lankan presidential election results and is now available as an R package [SLPresElection](https://cran.r-project.org/web/packages/SLPresElection/index.html).
 4. The script data from the tv show "Southpark" was scraped from its [wikia website](https://southpark.fandom.com/wiki/South_Park_Archives) and IMDB website. The resultant data was developed into an [R package](https://cran.r-project.org/web/packages/SouthParkRshiny/index.html), [Rshiny](https://amalan-con-stat.shinyapps.io/SouthParkRshiny/) application was developed.
 5. Hosted my previous [personal website](https://amalan-con-stat.netlify.app/) through the R package blogdown in netlify. Currently, I am using Quarto for a stable [personal website](https://www.amalan-mahendran.com). 
-6. As a graduate student, I aim to develop scalable methods for regression problems under big data. 
+6. As a post-graduate student, I developed scalable methods for regression problems under big data, see the package ["NeEDS4BigData"](https://cran.r-project.org/package=NeEDS4BigData) for more details.
+7. Currently, I am working as a postdoctoral research fellow in the School of Civil and Environmental Engineering, QUT.
 
 Go through the repositories in this profile as needed and have fun (also cite).
 
@@ -28,6 +29,8 @@ Mahendran, R., Puthussery, S., & Amalan, M. (2019). Prevalence of antenatal depr
 Ozim, C. O., Mahendran, R., Amalan, M., & Puthussery, S. (2023). Prevalence of human immunodeficiency virus (HIV) among pregnant women in Nigeria: a systematic review and meta-analysis. BMJ open, 13(3), e050164.
 
 Mahendran, A., Thompson, H., & McGree, J. M. (2023). A model robust subsampling approach for Generalised Linear Models in big data settings. Statistical Papers, 1-21.
+
+Mahendran, A., Thompson, H., & McGree, J. M. (2025). A subsampling approach for large data sets when the Generalised Linear Model is potentially misspecified.
 
 [![Twitter: Amalan](https://img.shields.io/twitter/follow/Amalan_Con_Stat?style=social)](https://twitter.com/Amalan_Con_Stat)
 [![GitHub Amalan](https://img.shields.io/github/followers/Amalan-ConStat?label=follow&style=social)](https://github.com/Amalan-ConStat)

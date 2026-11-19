@@ -4,11 +4,12 @@
 I am an R statistical programmer who likes to develop content for statistical theory. My progress in R and Statistics so far:
 1. In my undergraduate days I developed an R package ["fitODBOD"](https://cran.r-project.org/web/packages/fitODBOD/index.html) to fit over-dispersed binomial outcome data through various distributions. Recently an Rshiny application named [fitODBODRshiny](https://amalan-con-stat.shinyapps.io/fitodbodrshiny/) was developed for this package.
 2. For the Olympic data I built an [Rshiny application](https://amalan-con-stat.shinyapps.io/OlympicRshiny/)  and is available as an R package [OlympicRshiny](https://cran.r-project.org/web/packages/OlympicRshiny/index.html).
-3. Scraped data from pdf files and built several [csv files](https://github.com/Amalan-ConStat/PresidentialElection) that include data for the Sri Lankan presidential election results and is now available as an R package [SLPresElection](https://cran.r-project.org/web/packages/SLPresElection/index.html).
+3. Scraped data from pdf files and built several [csv files](https://github.com/Amalan-ConStat/PresidentialElection) that include data for the Sri Lankan presidential election results and is now available as an R package [SLPresElection](https://cran.r-project.org/web/packages/SLPresElection/index.html). Recently, through using LLMs and prompt engineering election data for years 2019 and 2024 were extracted from scanned pdf files. 
 4. The script data from the tv show "Southpark" was scraped from its [wikia website](https://southpark.fandom.com/wiki/South_Park_Archives) and IMDB website. The resultant data was developed into an [R package](https://cran.r-project.org/web/packages/SouthParkRshiny/index.html), [Rshiny](https://amalan-con-stat.shinyapps.io/SouthParkRshiny/) application was developed.
-5. Hosted my previous [personal website](https://amalan-con-stat.netlify.app/) through the R package blogdown in netlify. Currently, I am using Quarto for a stable [personal website](https://www.amalan-mahendran.com). 
-6. As a post-graduate student, I developed scalable methods for regression problems under big data, see the package ["NeEDS4BigData"](https://cran.r-project.org/package=NeEDS4BigData) for more details.
-7. Currently, I am working as a postdoctoral research fellow in the School of Civil and Environmental Engineering, QUT.
+5. Spatial data for Sri Lanka were extracted throughout the internet and converted into the R package ["SLspatial"](https://cran.r-project.org/package=SLspatial).
+6. Hosted my previous [personal website](https://amalan-con-stat.netlify.app/) through the R package blogdown in netlify. Currently, I am using Quarto for a stable [personal website](https://www.amalan-mahendran.com). 
+7. As a post-graduate student, I developed scalable methods for regression problems under big data, see the package ["NeEDS4BigData"](https://cran.r-project.org/package=NeEDS4BigData) for more details.
+8. Currently, I am working as a postdoctoral research fellow in the School of Civil and Environmental Engineering, QUT.
 
 Go through the repositories in this profile as needed and have fun (also cite).
 
